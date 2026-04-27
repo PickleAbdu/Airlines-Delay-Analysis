@@ -123,7 +123,7 @@ Contains all flight records with timing, delay, and operational data.
 **Filters**: Destination Airport, Origin Airport, Cancelled toggle
 
 ### Page 3: Diversions Analysis
-![Diversions Dashboard](assets/Diverted.jpg)
+![Diversions Dashboard](assets/Diverted.png)
 **Key Visualizations**:
 - Diverted Flights over 2008 (Line Chart):
   - Volatile pattern with peaks in January, May, and December
