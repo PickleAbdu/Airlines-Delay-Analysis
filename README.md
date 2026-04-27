@@ -60,7 +60,7 @@ Contains all flight records with timing, delay, and operational data.
 ## Dashboard Pages
 
 ### Page 1: Delays Overview
-![Delays Overview Dashboard]("D:\ITI\Power BI\Day6\Dashboards\Delayed.jpg")
+![Delays Overview Dashboard](assets/Delayed.jpg)
 
 **Key Visualizations**:
 - KPI Cards (Top Row):
@@ -95,7 +95,7 @@ Contains all flight records with timing, delay, and operational data.
 **Filters**: Destination Airport, Origin Airport, Delays toggle
 
 ### Page 2: Cancellations Analysis
-![Cancellations Dashboard]("D:\ITI\Power BI\Day6\Dashboards\Cancelled.jpg")
+![Cancellations Dashboard](assets/Cancelled.jpg)
 
 **Key Visualizations**:
 - Cancelled Flights over 2008 (Line Chart):
@@ -123,7 +123,7 @@ Contains all flight records with timing, delay, and operational data.
 **Filters**: Destination Airport, Origin Airport, Cancelled toggle
 
 ### Page 3: Diversions Analysis
-![Diversions Dashboard]("D:\ITI\Power BI\Day6\Dashboards\Diverted.jpg")
+![Diversions Dashboard](assets/Diverted.jpg)
 **Key Visualizations**:
 - Diverted Flights over 2008 (Line Chart):
   - Volatile pattern with peaks in January, May, and December
